@@ -1,0 +1,3 @@
+[submodule "app/shares"]
+	path = app/shares
+	url = git@github.com:jasterOEN/Share.git
